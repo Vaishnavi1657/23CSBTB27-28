@@ -12,3 +12,6 @@ https://github.com/Vaishnavi1657/23CSBTB27-28/blob/main/Housing_Price_Prediction
 https://github.com/Vaishnavi1657/23CSBTB27-28/blob/main/Titanic_Logistic_Regression_using_Python.ipynb
 
 https://github.com/Vaishnavi1657/23CSBTB27-28/blob/main/Classified_Data.ipynb
+
+https://github.com/Vaishnavi1657/23CSBTB27-28/blob/main/SVM.ipynb
+
