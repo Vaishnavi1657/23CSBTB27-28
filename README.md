@@ -19,5 +19,4 @@ https://github.com/Vaishnavi1657/23CSBTB27-28/blob/main/Decision_Tree(Lab_08).ip
 
 https://github.com/Vaishnavi1657/23CSBTB27-28/blob/main/Random_Forest.ipynb
 
-
-
+https://github.com/Vaishnavi1657/23CSBTB27-28/blob/main/KNN.ipynb
