@@ -17,4 +17,7 @@ https://github.com/Vaishnavi1657/23CSBTB27-28/blob/main/SVM.ipynb
 
 https://github.com/Vaishnavi1657/23CSBTB27-28/blob/main/Decision_Tree(Lab_08).ipynb
 
+https://github.com/Vaishnavi1657/23CSBTB27-28/blob/main/Random_Forest.ipynb
+
+
 
